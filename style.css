@@ -1,0 +1,59 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Exo+2:200,400,500');
+
+body {
+  background-color: white;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #444;
+}
+
+div {
+  font-family: "Exo 2", sans-serif;
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.HeaderLinks {
+  color: black;
+  font-weight: 200;
+}
+
+.header {
+  color: black;
+  font-weight: 400;
+}
+
+.subheading {
+  color: black;
+  font-weight: 200;
+  font-size: 18px;
+}
+
+#GitHubLink {
+  width: 30px;
+  height: auto;
+}
+
+#LinkedInLink {
+  width: 30px;
+  height: auto;
+}
+
+.list-unstyled {
+  font-size: 16px;
+  font-weight: 200;
+}
+
+#resbullet1 {
+  font-size: 16px;
+  font-weight: 200;
+}
+
+#GCHeadshot1 {
+  width: 200px;
+  height: auto;
+}
